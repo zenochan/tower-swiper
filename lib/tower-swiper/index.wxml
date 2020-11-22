@@ -1,0 +1,8 @@
+<view class="tower-swiper"
+    bind:touchstart="onTouchStart"
+    bind:touchmove="onTouchMove"
+    bind:touchend="onTouchEnd"
+    style="height: {{height}}px"
+>
+  <slot></slot>
+</view>

@@ -1,0 +1,11 @@
+.tower-swiper{
+    display: block;
+    margin-top: 80rpx;
+}
+.item {
+    width: 400rpx;
+    height: 600rpx;
+    display: block;
+    box-sizing: border-box;
+    border-radius: 16rpx;
+}

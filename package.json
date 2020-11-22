@@ -1,0 +1,30 @@
+{
+  "name": "@zenochan/tower-swiper",
+  "miniprogram": "lib",
+  "version": "1.0.0",
+  "description": "swiper practice",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [
+    "swiper"
+  ],
+  "author": "Zeno Chan (zenochan@qq.com)",
+  "license": "MIT",
+  "dependencies": {
+    "airbnb": "0.0.2",
+    "eslint-config": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb"
+    ]
+  }
+}

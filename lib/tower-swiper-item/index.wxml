@@ -1,0 +1,6 @@
+<view class="tower-swiper-item {{zIndex==0?'tower-swiper-item--hidden':''}}"
+      style="--z-index: {{zIndex}};--left:{{left}};">
+  <view class="tower-swiper-item__scale" style="--scale:{{scale}}" bindtap="onTap">
+    <slot></slot>
+  </view>
+</view>

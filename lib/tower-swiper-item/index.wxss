@@ -1,0 +1,17 @@
+.tower-swiper-item {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(calc(-50% + var(--left) * 20%));
+    z-index: var(--z-index);
+    transition: all ease 0.5s;
+}
+
+.tower-swiper-item--hidden {
+    opacity: 0;
+}
+
+.tower-swiper-item__scale {
+    transform: scale(var(--scale));
+    transition: all ease 0.5s;
+}
