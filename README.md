@@ -102,8 +102,8 @@ Page({
 ```
 
 # References
-- [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI)
-    > ![](https://www.color-ui.com/index.png)
+- [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI)  
+![](https://www.color-ui.com/index.png)
 
 # License
 [MIT](https://github.com/zenochan/tower-swiper/blob/master/LICENSE)

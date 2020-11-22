@@ -1,4 +1,4 @@
-<tower-swiper class="tower-swiper">
+<tower-swiper class="tower-swiper" active="3">
   <tower-swiper-item wx:for="{{items}}" wx:key="id">
     <image class="item" src="{{item.url}}" mode="aspectFill"></image>
   </tower-swiper-item>
