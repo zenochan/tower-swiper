@@ -106,4 +106,4 @@ Page({
     > ![](https://www.color-ui.com/index.png)
 
 # License
-[MIT](https://github.com/zenochan/tower-swiper/blob/main/LICENSE)
+[MIT](https://github.com/zenochan/tower-swiper/blob/master/LICENSE)
